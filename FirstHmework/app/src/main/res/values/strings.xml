@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstHmework</string>
+    <string name="first_button">First Button</string>
+    <string name="second_button">Second Button</string>
+    <string name="second_task">Second Task</string>
+    <string name="some_text">Some Text</string>
+    <string name="third_button">Third Button</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+
+</resources>
